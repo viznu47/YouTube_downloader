@@ -9,6 +9,7 @@ Note:
 1.  Be sure to install the pytube library before cloning.
 2.  The downloaded file will be visible only in the same directory as the file
 
+Sampple download:
 
 ![image](https://user-images.githubusercontent.com/79418351/227019347-dc094a63-e0e4-4d4e-b17a-640d987fab0d.png)
 
