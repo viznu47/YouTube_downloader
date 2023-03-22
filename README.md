@@ -7,7 +7,7 @@ Paste the YouTube link -> select the file format (audio/video) -> select Downloa
 
 Note:
 1.  Be sure to install the pytube library before cloning.
-2.  The downloaded file will be visible only in the same directory as the file
+2.  The audio/video is in .mp4 format only and downloaded in the same directory as app.py
 
 Sample download:
 
